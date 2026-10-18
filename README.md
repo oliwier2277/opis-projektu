@@ -6,6 +6,6 @@ Jestem Oliwier,lubie aktywnosci sportowe oraz lubie dobre jedzenie.
 doswiadczenie mam nie za wysokie ale z czasem sie to zmieni.
 
 ## Cele zawodowe
- Opanowac zaawansowane funkcje Gita.
- Nauczyc sie podstaw cyber security.
- Tworzyc czytelny kod 
+ Opanowac zaawansowane funkcje *Gita*.
+ Nauczyc sie podstaw **cyber security**.
+ Tworzyc czytelny kod. 
