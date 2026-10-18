@@ -1,9 +1,9 @@
 # opis-projektu
 ## O mnie
-Jestem Oliwier,lubie aktywnosci sportowe oraz mode.
+Jestem Oliwier,lubie aktywnosci sportowe oraz lubie dobre jedzenie.
 
 ## Doswiadczenie
-moje doswiadczenie w informatyce nie jest zbyt duze lecz zawziecie sie ucze.
+doswiadczenie mam nie za wysokie ale z czasem sie to zmieni.
 
 ## Cele zawodowe
 planuje ksztalcic sie w kierunku cyber seciurity oraz otworzyc wlasna firme.
